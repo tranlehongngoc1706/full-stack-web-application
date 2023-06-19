@@ -1,0 +1,31 @@
+
+.help{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 60vw;
+    margin: auto;
+}
+.eachQues{
+    justify-content: center;
+    text-align: center;
+    width: 31%;
+    margin: 1%;
+    background-color: grey;
+    height: 25vh;
+    /* min-height: 30vh;
+    max-height: 30vh; */
+    overflow-y:auto;
+    
+}
+.eachQues .btn{
+    text-decoration: none;
+    text-align: center;
+    background-color: wheat;
+    width: 100%;
+    justify-self: center;
+    border: none;
+}
+.eachQues details{
+    text-align: left;
+}

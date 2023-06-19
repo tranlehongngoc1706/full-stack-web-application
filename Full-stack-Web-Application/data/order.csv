@@ -1,0 +1,21 @@
+id,products,total,name,address,hub,created_at,status
+1,"4 Bioderma Sebium 1 Real Pearl Bracelet",75,"Mina Myoi",Japan,District1,"2022-09-10 11:16:57",Active
+2,"1 Laptop Dell XPS 9350",340,"Mina Myoi",Japan,District3,"2022-09-10 11:17:04",Active
+3,"3 Crispy seaweed OFood 3 Kavven Koala Bear",30,"Mina Myoi",Japan,District2,"2022-09-10 11:17:20",Active
+4,"5 Teddy Bear Shiba Inu 3 IMAGIC Lipstick",26,"Mina Myoi",Japan,District3,"2022-09-10 11:17:33",Delivered
+5,"1 iPhone 13 Pro Max 1 Karo egg cake",999,"Mina Myoi",Japan,District1,"2022-09-10 11:17:45",Active
+6,"2 Real Pearl Bracelet 1 Alpenliebe Mango 1 Laptop ASUS ROG 2021",889,"Lisa Manobal",Thailand,District2,"2022-09-10 11:18:22",Active
+7,"1 Silver bracelet S925 1 Apple Iphone 11 3 Korean pearl earring 3 Korean pearl earring",439,"Lisa Manobal",Thailand,District1,"2022-09-10 11:21:56",Canceled
+8,"1 Kavven Koala Bear 3 Strawberry T- Bear 1 Cow-shaped T-bear",28,"Lisa Manobal",Thailand,District1,"2022-09-10 11:22:14",Active
+9,"1 Real Pearl Bracelet 2 Bioderma Sebium 1 Alpenliebe Mango",51,"Ngoc Khanh",Vietnam,District3,"2022-09-10 11:22:43",Canceled
+10,"1 Makeup Brush Beauty 5 Snack Cheetos",30,"Ngoc Khanh",Vietnam,District2,"2022-09-10 11:22:54",Delivered
+11,"5 Crispy seaweed OFood 1 iPhone 13 Pro Max",1002,"Ngoc Khanh",Vietnam,District1,"2022-09-10 11:23:07",Active
+12,"4 Korean pearl earring",8,"Ngoc Khanh",Vietnam,District3,"2022-09-10 11:23:14",Active
+13,"1 Laptop Dell XPS 9350 1 Alpenliebe Mango",342,"Ngoc Khanh",Vietnam,District2,"2022-09-10 11:23:48",Canceled
+14,"1 Bioderma Sebium 1 Laptop Dell XPS 9350 5 Silver bracelet S925",363,"Lisa Manobal",Thailand,District2,"2022-09-10 11:25:39",Active
+15,"4 IMAGIC Lipstick",8,"Lisa Manobal",Thailand,District3,"2022-09-10 11:26:06",Active
+16,"4 Makeup Brush Beauty 4 Snack Cheetos",40,"Lisa Manobal",Thailand,District1,"2022-09-10 11:26:24",Active
+17,"1 Real Pearl Bracelet",23,"Ngoc Khanh",Vietnam,District3,"2022-09-10 11:26:42",Active
+18,"1 Laptop Dell XPS 9350 1 Crispy seaweed OFood 1 Korean pearl earring 3 Cow-shaped T-bear",355,"Ngoc Khanh",Vietnam,District3,"2022-09-10 11:27:01",Active
+19,"3 Bioderma Sebium 1 Snack Cheetos",44,"Ngoc Khanh",Vietnam,District2,"2022-09-10 11:27:12",Active
+20,"1 Real Pearl Bracelet",23,"Lisa Manobal",Thailand,District1,"2022-09-10 01:14:38",Active
